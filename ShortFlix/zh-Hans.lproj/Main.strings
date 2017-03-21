@@ -1,0 +1,159 @@
+
+/* Class = "UITextField"; placeholder = "username or email"; ObjectID = "2ma-th-NXe"; */
+"2ma-th-NXe.placeholder" = "username or email";
+
+/* Class = "UILabel"; text = "John Smith "; ObjectID = "2tx-bK-0a4"; */
+"2tx-bK-0a4.text" = "John Smith ";
+
+/* Class = "UIButton"; normalTitle = "Edit Profile"; ObjectID = "9wY-AI-Siz"; */
+"9wY-AI-Siz.normalTitle" = "Edit Profile";
+
+/* Class = "UIButton"; normalTitle = "RM 42"; ObjectID = "BQu-OX-Tni"; */
+"BQu-OX-Tni.normalTitle" = "RM 42";
+
+/* Class = "UILabel"; text = "REGISTER"; ObjectID = "F69-hi-8qs"; */
+"F69-hi-8qs.text" = "REGISTER";
+
+/* Class = "UIButton"; normalTitle = "RM 2"; ObjectID = "FzB-fx-7uu"; */
+"FzB-fx-7uu.normalTitle" = "RM 2";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GdI-lK-iSp"; */
+"GdI-lK-iSp.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "GfQ-WD-QgX"; */
+"GfQ-WD-QgX.normalTitle" = "LOGIN";
+
+/* Class = "UIButton"; normalTitle = "RM 17"; ObjectID = "HHB-yG-kDv"; */
+"HHB-yG-kDv.normalTitle" = "RM 17";
+
+/* Class = "UILabel"; text = "15 Titles / Month"; ObjectID = "KY2-ff-tND"; */
+"KY2-ff-tND.text" = "15 Titles / Month";
+
+/* Class = "UILabel"; text = "6 Months"; ObjectID = "Kka-3p-fGy"; */
+"Kka-3p-fGy.text" = "6 Months";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "Kmm-NJ-kwP"; */
+"Kmm-NJ-kwP.normalTitle" = "CANCEL";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "LfX-9x-eR0"; */
+"LfX-9x-eR0.normalTitle" = "SAVE";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "Lml-Vv-62V"; */
+"Lml-Vv-62V.placeholder" = "email";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "Mhn-Dw-ENj"; */
+"Mhn-Dw-ENj.placeholder" = "password";
+
+/* Class = "UILabel"; text = "Can view all (HD + Premium Video)"; ObjectID = "NId-xi-bgV"; */
+"NId-xi-bgV.text" = "Can view all (HD + Premium Video)";
+
+/* Class = "UILabel"; text = "18/07/2016 , ( 36/42 titles )"; ObjectID = "Pg7-zd-85z"; */
+"Pg7-zd-85z.text" = "18/07/2016 , ( 36/42 titles )";
+
+/* Class = "UILabel"; text = "CHANGE PASSWORD"; ObjectID = "QPf-Nd-cYv"; */
+"QPf-Nd-cYv.text" = "CHANGE PASSWORD";
+
+/* Class = "UILabel"; text = "Basic Plan (1 Month)"; ObjectID = "RMa-ti-IbM"; */
+"RMa-ti-IbM.text" = "Basic Plan (1 Month)";
+
+/* Class = "UIButton"; normalTitle = "Language"; ObjectID = "SUs-oY-exx"; */
+"SUs-oY-exx.normalTitle" = "Language";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TUa-z4-ftQ"; */
+"TUa-z4-ftQ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "RM 5"; ObjectID = "Tvf-tb-vQp"; */
+"Tvf-tb-vQp.normalTitle" = "RM 5";
+
+/* Class = "UIButton"; normalTitle = "RESET"; ObjectID = "VET-Ui-scc"; */
+"VET-Ui-scc.normalTitle" = "RESET";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE REGISTER"; ObjectID = "Vv5-ay-4rw"; */
+"Vv5-ay-4rw.normalTitle" = "CONTINUE REGISTER";
+
+/* Class = "UILabel"; text = "EPISODE"; ObjectID = "W37-yK-TfF"; */
+"W37-yK-TfF.text" = "EPISODE";
+
+/* Class = "UILabel"; text = "CHOOSE PLAN"; ObjectID = "XZW-LF-Kda"; */
+"XZW-LF-Kda.text" = "CHOOSE PLAN";
+
+/* Class = "UIButton"; normalTitle = "RM 10"; ObjectID = "Yse-l5-IMA"; */
+"Yse-l5-IMA.normalTitle" = "RM 10";
+
+/* Class = "UITextField"; placeholder = "username or email"; ObjectID = "Z6o-cf-6kF"; */
+"Z6o-cf-6kF.placeholder" = "username or email";
+
+/* Class = "UILabel"; text = "john.smith@gmail.com"; ObjectID = "d1d-OW-z1x"; */
+"d1d-OW-z1x.text" = "john.smith@gmail.com";
+
+/* Class = "UILabel"; text = "1 Year"; ObjectID = "dQ1-L4-wlJ"; */
+"dQ1-L4-wlJ.text" = "1 Year";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "e9e-h3-7Ed"; */
+"e9e-h3-7Ed.placeholder" = "password";
+
+/* Class = "UIButton"; normalTitle = "RENEW"; ObjectID = "eLJ-jn-VZt"; */
+"eLJ-jn-VZt.normalTitle" = "RENEW";
+
+/* Class = "UILabel"; text = "+1-(312)-943248753"; ObjectID = "fmh-EX-VpE"; */
+"fmh-EX-VpE.text" = "+1-(312)-943248753";
+
+/* Class = "UIButton"; normalTitle = "Pay Now"; ObjectID = "fug-uk-tDz"; */
+"fug-uk-tDz.normalTitle" = "Pay Now";
+
+/* Class = "UILabel"; text = "BASIC"; ObjectID = "fyE-47-5Fh"; */
+"fyE-47-5Fh.text" = "BASIC";
+
+/* Class = "UILabel"; text = "Expiry Date:"; ObjectID = "ixi-g9-gTt"; */
+"ixi-g9-gTt.text" = "Expiry Date:";
+
+/* Class = "UIButton"; normalTitle = "renew"; ObjectID = "kDt-VQ-q7t"; */
+"kDt-VQ-q7t.normalTitle" = "renew";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "kcf-nb-hhk"; */
+"kcf-nb-hhk.normalTitle" = "REGISTER";
+
+/* Class = "UITextField"; placeholder = "username"; ObjectID = "maG-Cm-hFJ"; */
+"maG-Cm-hFJ.placeholder" = "username";
+
+/* Class = "UIButton"; normalTitle = "RM 24"; ObjectID = "noC-Ke-znX"; */
+"noC-Ke-znX.normalTitle" = "RM 24";
+
+/* Class = "UILabel"; text = "PREMIUM"; ObjectID = "pvn-PR-jeW"; */
+"pvn-PR-jeW.text" = "PREMIUM";
+
+/* Class = "UIButton"; normalTitle = "BACK TO LOGIN"; ObjectID = "qfq-dj-mbJ"; */
+"qfq-dj-mbJ.normalTitle" = "BACK TO LOGIN";
+
+/* Class = "UILabel"; text = "John Smith"; ObjectID = "rpM-eZ-Nrr"; */
+"rpM-eZ-Nrr.text" = "John Smith";
+
+/* Class = "UITextField"; placeholder = "retype password"; ObjectID = "s9x-IS-t9k"; */
+"s9x-IS-t9k.placeholder" = "retype password";
+
+/* Class = "UILabel"; text = "RETYPE PASSWORD"; ObjectID = "sC2-Tq-Xdj"; */
+"sC2-Tq-Xdj.text" = "RETYPE PASSWORD";
+
+/* Class = "UILabel"; text = "NEW PASSWORD"; ObjectID = "uZN-vG-hOQ"; */
+"uZN-vG-hOQ.text" = "NEW PASSWORD";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "v6c-sl-l9I"; */
+"v6c-sl-l9I.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "BACK TO MY PROFILE"; ObjectID = "xQY-nj-gvs"; */
+"xQY-nj-gvs.normalTitle" = "BACK TO MY PROFILE";
+
+/* Class = "UILabel"; text = "1 Month"; ObjectID = "xsf-6V-Lun"; */
+"xsf-6V-Lun.text" = "1 Month";
+
+/* Class = "UIButton"; normalTitle = "View Activity"; ObjectID = "y4i-qj-yPF"; */
+"y4i-qj-yPF.normalTitle" = "View Activity";
+
+/* Class = "UITextField"; placeholder = "phone number"; ObjectID = "yrM-X9-Dfe"; */
+"yrM-X9-Dfe.placeholder" = "phone number";
+
+/* Class = "UIButton"; normalTitle = "Play Video"; ObjectID = "zJH-tS-4Ku"; */
+"zJH-tS-4Ku.normalTitle" = "Play Video";
+
+/* Class = "UILabel"; text = "agree to the term and conditions"; ObjectID = "zog-9C-Rn3"; */
+"zog-9C-Rn3.text" = "agree to the term and conditions";
